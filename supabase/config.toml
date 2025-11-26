@@ -1,0 +1,7 @@
+project_id = "dejkffoibgxelxmojfzf"
+
+[functions.validate-api-key]
+verify_jwt = false
+
+[functions.example-api]
+verify_jwt = false
